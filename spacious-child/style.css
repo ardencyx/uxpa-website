@@ -1,0 +1,43 @@
+/*
+ Theme Name:   Spacious Child 
+ Theme URI:    
+ Description:  
+ Author:       
+ Author URI:   
+ Template:     spacious
+ Version:      1.0.6
+ Tags:         
+ Text Domain:  spacious-child
+*/
+
+@import url("../spacious/style.css");
+
+@font-face
+{
+	font-family: 'Opan Sans', sans-serif;
+}
+
+a, a:link, a:visited, a:hover, a:active
+{
+	text-decoration: none;
+	color: inherit; 
+}
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	padding: 0px inherit;
+}
+
+p,
+h3
+{
+	font-weight: 300;
+}
+
+#header-text-nav-container{
+	background-color: #676d79;
+	height: 36px;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+	padding: 2px 0px;
+}
