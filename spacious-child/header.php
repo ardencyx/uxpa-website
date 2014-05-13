@@ -89,7 +89,9 @@ wp_head();
 	    			<div class="col-md-6">
 					<nav>
 						<a href="https://www.facebook.com/groups/27781592999/"><img class="logo"  src="wp-content/themes/spacious-child/images/FB.png"></a>
-						<a href="#">Linkedin Logo</a>
+						<a href="https://www.linkedin.com/groups?home=&gid=2201484"><img class="logo" src="wp-content/themes/spacious-child/images/LI.png"></a>
+						<a href="https://twitter.com/UXPAPugetSound"><img class="logo" src="wp-content/themes/spacious-child/images/TW.png"></a>
+						<a href="http://www.meetup.com/User-Experience-Professionals-Association-UXPA-Puget-Sound/">Meetup</a>
 					</nav>
 				</div>	
 		
